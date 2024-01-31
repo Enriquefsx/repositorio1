@@ -4,6 +4,6 @@ int main(){
     string name;
     cout<<"proyect"<<endl<<endl;
     cin>>name;
-    cout<<endl<<endl<<name;
+    cout<<endl<<name;
     return 0;                   
 }
